@@ -1,0 +1,26 @@
+#macOS
+3 finds to swap btw desktops
+
+
+#commands
+Mkdir
+Rmdir
+Cd
+Pwd
+Ls
+Cd ..
+Cd ../..
+Cd / 
+# shortcuts
+Tab tab
+Tab 
+Touch “file name”
+Open 
+
+# vi
+Vi “file name”
+I 
+:wq!
+
+# git
+Clone
